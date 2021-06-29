@@ -11,6 +11,13 @@ Status:
 
 Part of the [commitizen](https://github.com/commitizen/cz-cli) family. Prompts for [conventional changelog](https://github.com/conventional-changelog/conventional-changelog-zh-emoji) standard.
 
+## Install
+
+```
+yarn global add cz-conventional-changelog-zh-emoji
+```
+
+
 ## Configuration
 
 ### 全局
