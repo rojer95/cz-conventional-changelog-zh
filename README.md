@@ -1,4 +1,4 @@
-# cz-conventional-changelog-zh-emoji-emoji(汉化Emoji版)
+# cz-conventional-changelog-zh-emoji(汉化Emoji版)
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/commitizen/cz-conventional-changelog-zh-emoji.svg)](https://greenkeeper.io/)
 
@@ -12,6 +12,11 @@ Status:
 Part of the [commitizen](https://github.com/commitizen/cz-cli) family. Prompts for [conventional changelog](https://github.com/conventional-changelog/conventional-changelog-zh-emoji) standard.
 
 ## Configuration
+
+### 全局
+```
+echo '{ "path": "cz-conventional-changelog-zh-emoji" }' > ~/.czrc 
+```
 
 ### package.json
 
