@@ -207,7 +207,7 @@ module.exports = function(options) {
           scope +
           ': ' +
           (types[answers.type] && types[answers.type].emoji
-            ? types[answers.type].emoji
+            ? types[answers.type].emoji + ' '
             : '') +
           answers.subject;
 
