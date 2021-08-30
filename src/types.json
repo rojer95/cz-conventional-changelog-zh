@@ -1,74 +1,32 @@
 {
   "feat": {
-    "description": "一个新功能",
+    "description": "添加了个很棒的功能",
     "title": "Features",
-    "emoji": ":sparkles:"
+    "emoji": ":boom:"
   },
   "fix": {
-    "description": "一个bug",
+    "description": "修复了一些 bug",
     "title": "Bug Fixes",
     "emoji": ":bug:"
   },
   "docs": {
-    "description": "文档增删改",
+    "description": "更新了一下文档",
     "title": "Documentation",
     "emoji": ":pencil:"
   },
-  "delete": {
-    "description": "删除文件",
-    "title": "Delete Files",
-    "emoji": ":fire:"
-  },
-  "style": {
-    "description": "样式修改(空白、格式、缺少分号等)",
+  "UI": {
+    "description": "修改了一下样式",
     "title": "Styles",
-    "emoji": ":lipstick:"
-  },
-  "refactor": {
-    "description": "既不修复bug也不添加新功能的更改",
-    "title": "Code Refactoring",
-    "emoji": ":art:"
-  },
-  "perf": {
-    "description": "性能优化",
-    "title": "Performance Improvements",
-    "emoji": ":racehorse:"
-  },
-  "test": {
-    "description": "增加测试",
-    "title": "Tests",
-    "emoji": ":white_check_mark:"
-  },
-  "build": {
-    "description": "影响构建系统或外部依赖项的更改(示例范围:gulp、broccoli、npm)",
-    "title": "Builds",
-    "emoji": ":hammer:"
-  },
-  "ci": {
-    "description": "对CI配置文件和脚本的更改(示例范围:Travis, Circle, BrowserStack, SauceLabs)",
-    "title": "Continuous Integrations",
-    "emoji": ":green_heart:"
+    "emoji": ":tulip:"
   },
   "chore": {
-    "description": "除src目录或测试文件以外的修改",
-    "title": "Chores",
-    "emoji": ":bookmark:"
+    "description": "对脚手架做了些更改",
+    "title": "Made some changes to the scaffolding",
+    "emoji": ":european_castle:"
   },
-  "revert": {
-    "description": "回退历史版本",
-    "title": "Reverts",
-    "emoji": ":checked_flag:"
-  },
-  "conflict": {
-    "description": "修改冲突",
-    "title": "Conflict"
-  },
-  "font": {
-    "description": "字体文件更新",
-    "title": "Fonts"
-  },
-  "stash": {
-    "description": "暂存文件",
-    "title": "Stash Files"
+  "locale": {
+    "description": "为国际化做了微小的贡献",
+    "title": "Made a small contribution to internationalization",
+    "emoji": ":globe_with_meridians:"
   }
 }
